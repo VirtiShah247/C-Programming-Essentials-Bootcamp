@@ -1,1 +1,1 @@
-# Equal-Number
+#Guessing-Game
